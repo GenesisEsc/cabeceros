@@ -10,10 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f85eb48f-50d5-4c72-b0aa-b3199e98422d" name="Changes" comment="Comentarios en ProductoXlsServlet">
-      <change beforePath="$PROJECT_DIR$/out/artifacts/cabeceros/WEB-INF/classes/models/Producto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/cabeceros/WEB-INF/classes/models/Producto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/cabeceros/WEB-INF/classes/service/ProductosServicesImplement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/cabeceros/WEB-INF/classes/service/ProductosServicesImplement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/cabeceros/WEB-INF/classes/servlet/ProductoJsonServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/cabeceros/WEB-INF/classes/servlet/ProductoJsonServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/cabeceros/WEB-INF/classes/servlet/ProductoXlsServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/cabeceros/WEB-INF/classes/servlet/ProductoXlsServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlet/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/cabeceros/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/cabeceros/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlet/CabecerasHttpRequestServlet.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +26,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Jsp File" />
         <option value="Class" />
       </list>
     </option>
@@ -32,21 +34,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "GenesisEsc"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GenesisEsc&quot;
   }
-}]]></component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="b497f946-a8bc-436d-9105-90a98910c2c2" />
-  </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/GenesisEsc/cabeceros.git",
-    "accountId": "b497f946-a8bc-436d-9105-90a98910c2c2"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GenesisEsc/cabeceros.git&quot;,
+    &quot;accountId&quot;: &quot;b497f946-a8bc-436d-9105-90a98910c2c2&quot;
   }
-}]]></component>
+}</component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -80,6 +79,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Usuario/Desktop/proyectosintellij/cookies",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -92,6 +92,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Usuario\Desktop\proyectosintellij\cookies\src\main\webapp" />
+      <recent name="C:\Users\Usuario\Desktop\proyectosintellij\cookies\src\main\webapp\WEB-INF" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="configurationStatuses">
       <map>
@@ -212,6 +218,8 @@
       <workItem from="1762388534027" duration="1999000" />
       <workItem from="1762436378579" duration="5015000" />
       <workItem from="1762474851814" duration="5986000" />
+      <workItem from="1762780388021" duration="75000" />
+      <workItem from="1762780491548" duration="4463000" />
     </task>
     <task id="LOCAL-00001" summary="Implementacion del json y arreglo en webservlets">
       <option name="closed" value="true" />
